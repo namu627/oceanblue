@@ -37,7 +37,7 @@ export const chapters = [
   {
     depth: 200,
     zone: 'TWILIGHT ZONE',
-    line: ['AI와 함께 일하되,', '마지막 판단은 제가 합니다.'],
+    line: ['AI로 빠르게 만들고,', '제 눈으로 검증합니다.'],
     project: '별별 (my stella)',
   },
   {
